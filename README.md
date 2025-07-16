@@ -1,3 +1,3 @@
 # SBIproject
-this is SBI project 
-It is based on automaton 
+this is SBI project <b>
+It is based on Automation
